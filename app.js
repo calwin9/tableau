@@ -3,7 +3,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/views/testing_16953927756140/ColorContrastAccessibilityTester?:language=en-US&:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/views/PublisherAnalysis/Publication?:language=en-US&:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
