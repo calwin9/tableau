@@ -1,4 +1,4 @@
-# Tableau
+# Publication Analysis (Tableau)
 
 
 Interactive version: https://rawcdn.githack.com/calwin9/tableau/f5fc3b2f0a9f342d576269b91107deed4668fa19/index.html<br>
